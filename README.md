@@ -79,10 +79,10 @@ Engineered to build clean, maintainable, and high-performance applications with 
 </h2>
 
 <p align="center">
-  <img src="./badges/python.png" alt="Python Badge" height="310" />
-  <img src="./badges/JS.png" alt="JavaScript Badge" height="310" />
-  <img src="./badges/JAVA.png" alt="Java Badge" height="310" />
-  <img src="./badges/github.png" alt="Git Badge" height="310" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=310" height="50" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="50" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50" alt="Git Badge" />
 </p>
 
 ---
