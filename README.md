@@ -67,11 +67,12 @@ Engineered to build clean, maintainable, and high-performance applications with 
 
 <br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+ <p align="center">
+    <img src="https://img.shields.io/badge/Python_Class-Rank_3_%E2%80%A2_Diamond-FF0055?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JS_Class-Rank_3_%E2%80%A2_Platinum-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Java_Class-Rank_3_%E2%80%A2_Elite-FF9900?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster-AD00FF?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  </p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Technical+Certifications+%26+Skills" alt="Technical Skills Heading" />
