@@ -147,10 +147,7 @@ Engineered to build clean, maintainable, and high-performance applications with 
 
 Open for software engineering collaborations, open-source projects, and technical discussions! ☕
 
-<p align="center">
-  <a href="https://discord.com/users/1256948674630782977" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+
   <a href="https://github.com/pnmjeee6_sys?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
@@ -159,8 +156,9 @@ Open for software engineering collaborations, open-source projects, and technica
 </div>
 
 <!-- Developer Signature -->
+<!-- Cursive Tech Signature -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=00F0FF&center=false&vCenter=true&width=450&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Padmanava+Mukherjee;%F0%9F%90%BE+DEV%3A+pnmjeee6_sys" alt="Developer Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&pause=2000&color=00F0FF&center=false&vCenter=true&width=600&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Padmanava+Mukherjee;%F0%9F%90%BE+DEV%3A+pnmjeee6_sys" alt="Cursive Tech Signature" />
 </p>
 
 <div align="right">
