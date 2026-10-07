@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="arys.jpg" width="100%" alt="Padmanava Mukherjee Pixel Art Banner">
+  <img src="arys1.png" width="100%" alt="Padmanava Mukherjee Pixel Art Banner">
 </div>
 
 
