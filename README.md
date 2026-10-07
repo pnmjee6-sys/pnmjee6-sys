@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="arys.jpg" width="100%" alt="Padmanava Mukherjee Pixel Art Banner">
+</div>
+
+
+
 <div align="center">
 
 <p align="center">
