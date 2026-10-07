@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Profile_Views-100%2B-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Visitor Count" />
 </p>
 
-# 💻 ✨ Padmanava Mukherjee
+
 
 *🚀 Full-Stack Developer | Architecting Scalable Software | Passionate about Modern Web Tech*
 
